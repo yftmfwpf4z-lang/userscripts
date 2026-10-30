@@ -19,7 +19,7 @@ An open-source userscript editor for Safari
 - [FAQs](#faqs)
 - [Contributing](#contributing)
 - [Support](#support)
-- [Privacy Policy](#privacy-policy)
+            - [Privacy Policy](#privacy-pol
 - [License](#license)
 
 ## Installation
